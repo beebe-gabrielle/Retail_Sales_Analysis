@@ -1,4 +1,6 @@
+<p align="center">
 <img width="475" height="129" alt="image" src="https://github.com/user-attachments/assets/9d9d9eae-2e80-4687-b5db-e12b6a50e827" />
+</p>
 
 # Retail Sales Analysis
 
