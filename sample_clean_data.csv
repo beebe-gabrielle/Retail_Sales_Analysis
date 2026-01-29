@@ -1,0 +1,99 @@
+﻿order_id,order_date,order_time,store_id,region,channel,customer_id,customer_segment,category,subcategory,unit_price,quantity,gross_sales,net_sales,cost,profit,shipping_days,satisfaction_score,return_flag,financial_completeness_flag
+12629,10/8/2024,11:37 AM,21,South,Online,3029,Consumer,Electronics,Laptops,69.11,2,138.22,95.51,79.18,16.33,8,3,0,Complete
+37731,12/16/2025,5:17 PM,65,West,Mobile App,28389,Consumer,Home,Kitchen,54.46,2,108.92,93.56,,,7,2,0,Incomplete
+39992,4/27/2024,1:05 PM,51,West,Phone,8878,Home Office,Beauty,Skincare,56.34,1,56.34,54.65,30.54,24.11,9,1,0,Complete
+8526,6/24/2024,7:26 PM,3,South,In Store,3169,Consumer,Home,Decor,52.94,3,158.82,138.97,,,8,5,0,Incomplete
+8280,9/21/2024,2:27 AM,50,West,Mobile App,27958,Consumer,Grocery,Pantry,,6,,,,,3,5,,Not Usable
+51013,11/14/2024,8:14 PM,75,South,In Store,5394,Consumer,Electronics,Laptops,128.71,2,257.42,236.05,196.85,39.20,6,5,0,Complete
+14872,4/26/2024,12:42 AM,4,Midwest,Online,24736,Corporate,Electronics,Phones,349.20,3,1047.60,797.22,617.01,180.21,8,3,0,Complete
+15128,5/20/2025,3:52 PM,18,South,In Store,4117,Corporate,Beauty,Fragrance,39.33,3,117.99,88.73,71.01,17.72,0,4,0,Complete
+9367,8/11/2024,10:09 AM,51,West,In Store,16053,Consumer,Beauty,Makeup,42.39,4,169.56,130.56,,,2,4,0,Incomplete
+33323,9/15/2025,1:12 AM,27,West,Online,16076,Consumer,Electronics,Phones,65.88,4,263.52,206.86,143.37,63.49,7,1,0,Complete
+53391,7/31/2023,6:19 PM,68,Midwest,Mobile App,10593,Corporate,Electronics,Laptops,38.91,2,77.82,51.75,30.69,21.06,5,3,,Complete
+21820,5/23/2024,1:39 PM,24,West,In Store,24446,Consumer,Home,Bedding,32.71,1,32.71,26.00,15.51,10.49,5,2,0,Complete
+5027,12/5/2025,8:07 PM,59,Northeast,Online,24829,Corporate,Beauty,Fragrance,54.23,6,325.38,193.60,144.78,48.82,0,2,0,Complete
+23429,12/8/2025,1:37 AM,60,South,In Store,15773,Consumer,Home,Unknown,100.52,0,0.00,0.00,0.00,0.00,8,1,0,Incomplete
+45298,6/18/2023,5:14 AM,2,South,Phone,25279,Consumer,Grocery,Pantry,54.22,5,271.10,235.31,177.49,57.83,1,1,,Complete
+26355,6/27/2024,10:11 PM,64,Midwest,Mobile App,18653,Corporate,Beauty,Skincare,106.04,4,424.16,355.45,272.62,82.83,3,3,0,Complete
+30196,4/21/2024,4:09 PM,6,South,In Store,27272,Corporate,Beauty,Skincare,48.65,2,97.30,88.83,66.69,22.14,7,,0,Complete
+47039,3/7/2025,11:55 PM,84,Northeast,Online,19083,Consumer,Grocery,Beverages,20.44,1,20.44,18.33,11.63,6.70,9,3,0,Complete
+20732,6/19/2024,5:43 PM,68,South,Mobile App,17938,Consumer,Apparel,Kids,85.97,3,257.91,189.31,160.12,29.18,1,4,0,Complete
+34048,8/17/2025,12:14 AM,75,West,In Store,16126,Home Office,Grocery,Pantry,,0,,,,,9,2,0,Not Usable
+26065,4/9/2023,7:54 AM,35,South,In Store,24537,Corporate,Grocery,Produce,106.76,4,427.04,367.68,228.16,139.52,2,,0,Complete
+42470,1/14/2023,2:59 AM,19,Midwest,Mobile App,26949,Consumer,Home,Bedding,127.61,4,510.44,261.35,220.88,40.46,7,4,0,Complete
+29747,2/15/2025,9:37 PM,65,South,Online,23239,Consumer,Apparel,Men,24.60,1,24.60,23.10,,,3,2,0,Incomplete
+14523,10/14/2025,5:57 AM,63,Northeast,Mobile App,22236,Corporate,Home,Furniture,43.87,2,87.74,67.30,43.89,23.41,4,1,0,Complete
+31573,7/25/2023,12:38 AM,18,West,In Store,26093,Corporate,Electronics,Audio,36.31,3,108.93,106.75,61.38,45.37,5,4,0,Complete
+54950,11/5/2025,5:58 PM,77,Midwest,Online,6499,Consumer,Grocery,Snacks,60.75,,,,,,3,1,0,Incomplete
+19369,1/8/2024,1:30 AM,42,West,Online,26382,Consumer,Electronics,Laptops,56.01,4,224.04,206.34,158.02,48.32,3,4,0,Complete
+3804,12/18/2024,9:33 PM,75,South,Online,13901,Consumer,Home,Bedding,120.29,1,120.29,76.87,45.14,31.72,7,3,0,Complete
+53326,11/20/2023,7:05 PM,16,Northeast,Online,21497,Consumer,Apparel,Men,78.41,4,313.64,223.94,127.43,96.51,7,3,0,Complete
+14301,9/15/2025,11:19 PM,2,Northeast,Online,25676,Home Office,Apparel,Shoes,19.08,1,19.08,11.68,9.64,2.03,9,5,0,Complete
+51302,10/21/2025,3:31 AM,72,West,Online,23183,Consumer,Apparel,Men,26.95,2,53.90,37.51,29.46,8.06,1,,0,Complete
+9009,7/14/2025,3:34 PM,53,Northeast,Online,16892,Home Office,Beauty,Fragrance,37.31,2,74.62,55.59,36.92,18.68,8,4,1,Complete
+47522,12/21/2023,5:46 PM,16,South,Online,7382,Corporate,Beauty,Haircare,68.36,1,68.36,58.45,42.67,15.78,3,2,0,Complete
+25225,6/16/2024,11:48 AM,3,Northeast,Online,4514,Home Office,Apparel,Shoes,82.03,1,82.03,68.50,53.36,15.14,6,1,0,Complete
+48922,10/4/2024,10:52 AM,4,West,In Store,10390,Consumer,Home,Kitchen,24.05,4,96.20,80.13,,,8,5,0,Incomplete
+37979,11/17/2025,2:54 AM,81,Midwest,Mobile App,9121,Consumer,Electronics,Accessories,118.59,1,118.59,100.92,76.94,23.98,3,5,0,Complete
+44172,3/6/2023,10:08 PM,29,South,Mobile App,21221,Corporate,Electronics,Phones,64.64,2,129.28,110.66,,,4,3,0,Incomplete
+26304,3/11/2024,5:31 AM,62,South,In Store,24096,Home Office,Electronics,Audio,68.39,1,68.39,52.80,41.13,11.66,1,,0,Complete
+19459,9/16/2023,10:31 AM,1,Northeast,In Store,22068,Corporate,Apparel,Women,21.31,0,0.00,,,,0,3,0,Incomplete
+5370,8/8/2024,4:49 PM,19,Midwest,Online,12550,Consumer,Electronics,Phones,69.40,2,138.80,128.53,75.87,52.66,2,1,0,Complete
+50292,12/2/2025,11:01 PM,2,West,Phone,21821,Consumer,Beauty,Unknown,173.08,1,173.08,139.68,87.66,52.02,0,4,0,Complete
+25952,7/7/2024,4:39 AM,76,South,Mobile App,631,Corporate,Grocery,Unknown,193.52,3,580.56,,,,4,5,,Incomplete
+54909,4/18/2025,12:25 AM,20,Midwest,Phone,15565,Corporate,Apparel,Women,25.42,3,76.26,38.28,27.87,10.41,7,2,0,Complete
+56363,2/25/2023,11:27 AM,61,South,Online,10613,Corporate,Grocery,Pantry,154.55,2,309.10,198.75,165.42,33.33,1,5,0,Complete
+32219,7/4/2024,1:18 PM,18,Midwest,Mobile App,15268,Consumer,Home,Decor,40.31,4,161.24,135.76,83.25,52.51,6,2,0,Complete
+2886,4/7/2023,5:48 AM,61,Midwest,Phone,601,Consumer,Home,Kitchen,87.51,3,262.53,251.24,153.84,97.41,7,2,0,Complete
+36560,4/18/2024,3:16 PM,24,South,In Store,9930,Corporate,Grocery,Snacks,101.30,2,202.60,166.54,141.51,25.03,8,,0,Complete
+8967,7/19/2023,4:24 AM,59,Midwest,In Store,18582,Consumer,Electronics,Audio,51.61,0,0.00,0.00,0.00,0.00,3,5,0,Incomplete
+46575,4/17/2023,11:58 AM,40,Midwest,Phone,4955,Consumer,Apparel,Kids,156.05,2,312.10,270.28,225.22,45.05,9,5,0,Complete
+10531,9/7/2025,12:58 AM,26,Northeast,In Store,27886,Consumer,Apparel,Unknown,65.96,1,65.96,60.22,36.10,24.12,5,1,0,Complete
+44629,3/17/2023,11:50 PM,45,Midwest,Online,22933,Consumer,Grocery,Produce,48.24,0,0.00,0.00,0.00,0.00,1,1,0,Incomplete
+274,2/25/2025,8:02 PM,62,Midwest,Online,17184,Corporate,Electronics,Audio,63.19,0,0.00,,,,7,2,,Incomplete
+19270,6/14/2025,3:31 PM,8,Northeast,Online,9081,Corporate,Home,Bedding,40.37,1,40.37,29.91,19.00,10.92,7,2,0,Complete
+36912,1/23/2024,7:55 PM,13,West,In Store,22000,Home Office,Apparel,Women,75.10,4,300.40,199.17,134.13,65.03,5,4,0,Complete
+10122,6/4/2025,8:32 AM,4,South,Online,5317,Home Office,Apparel,Kids,31.62,2,63.24,60.84,,,9,2,0,Incomplete
+13291,2/15/2023,3:49 AM,27,South,Online,55,Home Office,Home,Bedding,59.97,4,239.88,203.66,132.75,70.91,6,5,0,Complete
+57607,8/2/2023,4:21 PM,78,South,Online,28569,Consumer,Apparel,Women,75.35,3,226.05,183.33,,,5,3,1,Incomplete
+47190,7/5/2024,3:55 PM,14,South,Phone,26203,Corporate,Apparel,Shoes,88.33,3,264.99,226.04,169.46,56.58,4,5,0,Complete
+29210,11/20/2025,4:21 AM,62,West,Phone,11730,Corporate,Home,Decor,183.12,5,915.60,628.10,424.84,203.26,6,4,0,Complete
+42188,1/31/2024,2:47 PM,72,West,In Store,1449,Corporate,Beauty,Fragrance,102.44,4,409.76,222.50,146.01,76.49,5,4,0,Complete
+25387,10/24/2025,3:55 PM,24,South,In Store,5271,Home Office,Grocery,Snacks,93.37,2,186.74,,,,3,4,0,Incomplete
+17006,1/17/2023,8:40 AM,33,Northeast,Phone,16829,Consumer,Home,Decor,59.84,2,119.68,87.96,72.73,15.24,7,2,,Complete
+10982,6/2/2023,9:47 PM,68,West,In Store,1365,Consumer,Apparel,Shoes,50.89,2,101.78,75.62,54.73,20.89,3,2,1,Complete
+47314,10/25/2024,3:45 AM,47,Midwest,Online,29412,Consumer,Grocery,Snacks,62.58,,,,,,4,5,0,Incomplete
+27071,9/3/2024,7:55 PM,9,South,In Store,3728,Home Office,Apparel,Men,46.23,0,0.00,0.00,0.00,0.00,4,3,0,Incomplete
+6686,7/28/2024,8:58 PM,26,Midwest,Online,19575,Consumer,Electronics,Phones,40.90,2,81.80,70.02,54.91,15.11,2,1,0,Complete
+54961,1/14/2023,10:48 PM,53,South,In Store,15682,Corporate,Electronics,Phones,54.67,1,54.67,50.02,,,4,4,0,Incomplete
+58126,11/2/2023,8:59 PM,64,West,Online,12230,Consumer,Grocery,Produce,74.44,4,297.76,227.49,180.97,46.52,1,3,0,Complete
+40701,9/6/2025,3:45 PM,65,West,Mobile App,25511,Consumer,Grocery,Unknown,125.97,7,881.79,740.70,621.92,118.79,2,4,0,Complete
+13903,7/11/2024,7:59 PM,11,West,Phone,2819,Home Office,Electronics,Accessories,128.58,0,0.00,0.00,0.00,0.00,3,4,1,Incomplete
+31540,8/13/2024,7:25 AM,60,West,In Store,20375,Consumer,Apparel,Shoes,62.24,3,186.72,118.19,89.38,28.82,4,1,0,Complete
+49717,5/3/2024,4:28 AM,7,Midwest,Phone,28873,Corporate,Apparel,Kids,126.61,1,126.61,107.75,80.24,27.50,9,1,0,Complete
+49520,12/25/2024,9:17 PM,55,West,In Store,911,Consumer,Electronics,Phones,39.41,4,157.64,119.49,95.68,23.82,7,1,0,Complete
+51924,10/1/2025,2:08 AM,18,Northeast,In Store,18062,Consumer,Grocery,Snacks,85.89,3,257.67,187.07,137.75,49.32,1,2,0,Complete
+3503,10/21/2025,1:03 AM,28,West,Online,552,Consumer,Home,Furniture,16.70,1,16.70,15.06,11.38,3.68,4,2,0,Complete
+39337,9/2/2024,5:45 AM,64,West,Online,8403,Consumer,Home,Furniture,107.82,8,862.56,779.75,531.57,248.18,3,1,0,Complete
+2219,3/2/2025,10:06 PM,34,South,In Store,27443,Consumer,Home,Kitchen,44.67,3,134.01,129.19,,,1,1,,Incomplete
+18506,1/31/2023,7:47 AM,19,West,In Store,4745,Consumer,Electronics,Audio,32.26,6,193.56,92.52,69.29,23.23,2,1,0,Complete
+10690,4/16/2025,2:44 AM,36,Midwest,Online,7762,Home Office,Electronics,Laptops,100.38,1,100.38,96.06,71.01,25.05,2,5,0,Complete
+21378,1/9/2023,10:31 AM,37,West,Online,6675,Consumer,Grocery,Produce,225.45,4,901.80,836.87,,,2,2,1,Incomplete
+1867,3/24/2025,4:53 AM,57,West,In Store,27284,Consumer,Home,Kitchen,28.51,3,85.53,69.71,49.64,20.06,3,5,0,Complete
+20193,1/18/2025,2:13 PM,73,Midwest,Online,19058,Home Office,Electronics,Phones,49.03,4,196.12,140.23,95.57,44.65,4,4,0,Complete
+28871,8/27/2025,12:43 PM,79,South,In Store,623,Consumer,Beauty,Unknown,99.65,4,398.60,263.87,,,5,5,0,Incomplete
+52204,5/21/2023,11:48 AM,34,West,Online,16662,Home Office,Beauty,Fragrance,121.31,3,363.93,271.49,197.10,74.40,7,5,0,Complete
+3868,9/26/2024,6:19 PM,42,Northeast,Online,28145,Corporate,Home,Furniture,16.82,2,33.64,29.10,19.60,9.50,3,3,1,Complete
+3223,3/31/2024,11:02 AM,29,Northeast,Mobile App,21240,Home Office,Electronics,Laptops,75.96,2,151.92,87.66,54.42,33.24,9,5,0,Complete
+21786,6/29/2024,9:46 PM,48,Midwest,Mobile App,14264,Consumer,Electronics,Laptops,32.43,2,64.86,50.01,33.09,16.92,1,3,0,Complete
+20985,4/4/2025,12:21 PM,23,West,Phone,26498,Home Office,Electronics,Phones,63.07,0,0.00,0.00,0.00,0.00,8,1,0,Incomplete
+48540,1/7/2023,6:14 PM,66,Northeast,Online,15160,Home Office,Beauty,Haircare,51.57,1,51.57,42.55,25.95,16.60,6,3,0,Complete
+40695,5/3/2024,10:36 AM,22,West,In Store,6719,Consumer,Grocery,Beverages,145.08,2,290.16,128.83,,,4,2,0,Incomplete
+8441,7/17/2025,12:14 AM,18,West,Mobile App,4600,Consumer,Apparel,Men,89.42,1,89.42,77.97,55.86,22.11,1,1,0,Complete
+9952,9/8/2025,12:28 AM,71,Midwest,In Store,6854,Consumer,Beauty,Unknown,65.95,4,263.80,205.24,,,9,1,0,Incomplete
+1335,7/8/2024,7:30 PM,83,Midwest,Online,21466,Corporate,Beauty,Fragrance,47.77,3,143.31,122.96,89.13,33.83,2,,0,Complete
+32573,5/3/2024,12:19 PM,2,West,In Store,9211,Consumer,Electronics,Unknown,55.24,4,220.96,121.09,95.59,25.50,1,5,0,Complete
+28345,2/24/2024,3:27 AM,15,West,Phone,132,Consumer,Home,Furniture,90.74,0,0.00,0.00,0.00,0.00,4,5,0,Incomplete
+46504,7/3/2025,12:18 AM,67,Northeast,Online,308,Corporate,Home,Furniture,113.21,1,113.21,70.42,47.65,22.77,1,2,1,Complete
+34483,9/16/2023,10:46 PM,20,Northeast,Online,20769,Consumer,Apparel,Women,30.66,4,122.64,85.60,59.45,26.15,2,,,Complete
+36272,9/24/2023,1:51 PM,17,South,Mobile App,6008,Consumer,Electronics,Phones,38.09,5,190.45,164.36,132.72,31.63,8,2,0,Complete
