@@ -1,5 +1,5 @@
 <p align="center">
-<img width="547" height="168" alt="image" src="https://github.com/user-attachments/assets/8991aebb-6b29-4554-b0f1-82ee5ca7b976" />
+<img width="370" height="149" alt="image" src="https://github.com/user-attachments/assets/9ae04670-0520-4415-b404-0ae70f316e42" />
 </p>
 
 # City Market Co Data Cleaning Exploratory Analysis
