@@ -20,3 +20,11 @@
 
 # Recommendations & Next Steps
 
+<img width="1502" height="860" alt="image" src="https://github.com/user-attachments/assets/9e89fdca-bc0a-46db-8868-829c7e1d5127" />
+
+<img width="959" height="619" alt="image" src="https://github.com/user-attachments/assets/3d7a36a7-db1f-46b2-8acc-48aa8a5f9ffa" />
+
+<img width="861" height="605" alt="image" src="https://github.com/user-attachments/assets/4fb020c6-b3e8-4b28-8b83-3032a223c091" />
+
+https://rihab-feki.medium.com/end-to-end-tableau-project-how-to-build-a-sales-performance-dashboard-a6aa464c0eab
+
