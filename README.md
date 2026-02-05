@@ -25,6 +25,7 @@ City Market Co. is a ficticious retail company that sells various products in mu
 
 # Summary of Insights
 
+All from Tutorial (
 Sales Trends
 * Present the data for each KPI on a monthly basis for both the current year and the previous year.
 * Identify months with highest and lowest sales and make them easy to recognize.
@@ -37,6 +38,8 @@ Weekly Trends for Sales & Profit
 * Present weekly sales and profit data for the current year.
 * Display the average weekly values.
 * Highlight weeks that are above and below the average to draw attention to sales & profit performance.
+
+) END
 
 <img width="1502" height="860" alt="image" src="https://github.com/user-attachments/assets/9e89fdca-bc0a-46db-8868-829c7e1d5127" />
 
